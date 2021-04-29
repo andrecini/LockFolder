@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\bin\Debug\LockFolder.exe.config
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\bin\Debug\LockFolder.exe
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\bin\Debug\LockFolder.pdb
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.frmLockFolder.resources
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.Properties.Resources.resources
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.exe
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.pdb
+C:\Users\admin\Desktop\Estudo Isoplan\Ferramentas\LockFolder\obj\Debug\LockFolder.frmEdicao.resources
